@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title":"Artificial intelligence",
+    "imageSrc":"skills/AI.png"
+  },
+  {
+    "title": "Machine learning",
+    "imageSrc": "skills/Machine_learning.png"
+  },
+  {
+    "title": "R-programming",
+    "imageSrc": "skills/Rlogo.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
